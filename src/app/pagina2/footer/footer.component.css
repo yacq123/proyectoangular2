@@ -1,0 +1,12 @@
+.footer {
+    background-color: rgb(19, 17, 17);
+    color: white;
+    border: 3px solid rgb(93, 95, 99)
+}
+
+
+
+.ubicacion {
+    width: 100%;
+    height: 100%;
+}
